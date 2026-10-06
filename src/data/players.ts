@@ -18,7 +18,7 @@ export const players: Player[] = [
   { id: "connor", name: "Connor", bio: "Lo siento Wilson" },
   { id: "sophia", name: "Sophia", bio: "" },
   { id: "orlagh", name: "Orlagh", bio: "I will never git it." },
-  { id: "amelia", name: "Amelia", bio: "" },
+  { id: "amelia", name: "Amelia", bio: "git master 🐦" },
   { id: "daire", name: "Daire", bio: "" },
   { id: "jake", name: "Jake", bio: "" },
   { id: "ryan", name: "Ryan", bio: "MR GUY" },
