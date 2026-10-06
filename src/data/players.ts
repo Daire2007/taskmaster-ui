@@ -4,7 +4,7 @@ import type { Player } from "../types";
 // keep the exported shape (Player[]) stable so the UI does not change.
 export const players: Player[] = [
   { id: "eva", name: "Eva", bio: "" },
-  { id: "rebekah", name: "Rebekah", bio: "" },
+  { id: "rebekah", name: "Rebekah", bio: "Good point for Rebekah?" },
   { id: "karen", name: "Karen", bio: "" },
   { id: "finnbar", name: "Finnbar", bio: "Reluctantly optimistic" },
   { id: "eve", name: "Eve", bio: "" },
