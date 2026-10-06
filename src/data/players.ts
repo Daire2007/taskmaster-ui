@@ -13,7 +13,7 @@ export const players: Player[] = [
   { id: "emma", name: "Emma", bio: "" },
   { id: "jack", name: "Jack", bio: "mediocre at all times" },
   { id: "caolan_d", name: "Caolan D", bio: "" },
-  { id: "erin", name: "Erin", bio: "" },
+  { id: "erin", name: "Erin", bio: "gg freaking ez" },
   { id: "john", name: "John", bio: "" },
   { id: "connor", name: "Connor", bio: "" },
   { id: "sophia", name: "Sophia", bio: "" },
