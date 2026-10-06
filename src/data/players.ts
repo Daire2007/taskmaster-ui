@@ -19,7 +19,7 @@ export const players: Player[] = [
   { id: "sophia", name: "Sophia", bio: "" },
   { id: "orlagh", name: "Orlagh", bio: "" },
   { id: "amelia", name: "Amelia", bio: "" },
-  { id: "daire", name: "Daire", bio: "" },
+  { id: "daire", name: "Daire", bio: "i have a wayyy smaller ego that you. i have the smallest ego ever" },
   { id: "jake", name: "Jake", bio: "" },
   { id: "ryan", name: "Ryan", bio: "MR GUY" },
   { id: "caolan_t", name: "Caolan T", bio: "" },
