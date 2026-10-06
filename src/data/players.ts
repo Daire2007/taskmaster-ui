@@ -8,7 +8,7 @@ export const players: Player[] = [
   { id: "karen", name: "Karen", bio: "" },
   { id: "finnbar", name: "Finnbar", bio: "Reluctantly optimistic" },
   { id: "eve", name: "Eve", bio: "" },
-  { id: "luke", name: "Luke", bio: "" },
+  { id: "luke", name: "Luke", bio: "'I wish I was as cool as Luke' - everyone" },
   { id: "rose", name: "Rose", bio: "" },
   { id: "emma", name: "Emma", bio: "" },
   { id: "jack", name: "Jack", bio: "mediocre at all times" },
