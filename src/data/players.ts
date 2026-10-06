@@ -25,7 +25,7 @@ export const players: Player[] = [
   { id: "caolan_t", name: "Caolan T", bio: "" },
   { id: "criostoir", name: "Criostoir", bio: "one must imagine the best bio ever..." },
   { id: "eimhear", name: "Eimhear", bio: "The master of all the tasks" },
-  { id: "grace", name: "Grace", bio: "" },
+  { id: "grace", name: "Grace", bio: "AI's #1 fan" },
   { id: "adam", name: "Adam", bio: "" },
   { id: "andrew", name: "Andrew", bio: "Future taskmaster winner!!!" },
 ];
