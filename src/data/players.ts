@@ -5,7 +5,7 @@ import type { Player } from "../types";
 export const players: Player[] = [
   { id: "eva", name: "Eva", bio: "" },
   { id: "rebekah", name: "Rebekah", bio: "" },
-  { id: "karen", name: "Karen", bio: "" },
+  { id: "karen", name: "Karen", bio: "On your left! :D" },
   { id: "finnbar", name: "Finnbar", bio: "Reluctantly optimistic" },
   { id: "eve", name: "Eve", bio: "" },
   { id: "luke", name: "Luke", bio: "" },
